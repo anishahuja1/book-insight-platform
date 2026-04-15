@@ -1,4 +1,7 @@
 # AI-Powered Book Insight Platform
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c407ea92-1f38-4b11-a5ba-5fbf1d17dd37" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/607178bf-6d81-43ca-ad0d-b0dd3408e3ec" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07fef90b-bc1f-41ac-84a8-04700f074a03" />
 
 ## Overview
 This is a comprehensive, production-ready full-stack application built for Document Intelligence constraint. It acts as an AI-powered system designed to scrape books from `books.toscrape.com`, embed their data via `sentence-transformers`, save them to a local `chromadb` knowledge base, and perform an end-to-end RAG pipeline for answering user questions intelligently with accurate source citations. It additionally generates automated AI insights such as summaries, genre predictions, and sentiment analyses of each book.
