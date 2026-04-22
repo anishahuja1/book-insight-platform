@@ -150,4 +150,4 @@ curl -X POST http://localhost:8000/api/books/scrape/ \
 8. **Multi-page bulk scraping** — Recursive capability designed properly for standard catalogue loop handling.
 
 ---
-*Created by Antigravity AI Builder*
+
